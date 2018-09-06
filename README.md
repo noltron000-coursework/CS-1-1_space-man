@@ -14,4 +14,4 @@
 	- If letter has been input already, it is invalid.
 	- If letter is invalid, then go back to step 4.
 6. Increment incorrect counter
-7.
+7. asdf
